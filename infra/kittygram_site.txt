@@ -1,0 +1,5 @@
+IP: 51.250.106.169;
+name_taski: http://taskmaxmaster.zapto.org/;
+name_kittygram: https://kittygramchick.ddnsking.com/;
+login: Maxim;
+password: 7569395;
